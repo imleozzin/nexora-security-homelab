@@ -80,6 +80,6 @@ nexora-security-homelab/
 
 **Leonardo Ramalho** — Analista de TI | Cybersecurity (Blue Team / SOC).
 
-[LinkedIn](https://www.linkedin.com/in/leonardo-ramalho-) · [GitHub](https://github.com/imleozzin)
+   [Portfólio](https://imleozzin.github.io) · [LinkedIn](https://www.linkedin.com/in/leonardo-ramalho-) · [GitHub](https://github.com/imleozzin)
 
 
