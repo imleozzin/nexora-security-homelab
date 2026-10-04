@@ -63,7 +63,7 @@ Firewall **pfSense** no centro, roteando entre 4 zonas internas + WAN. Cada zona
 ## 📂 Estrutura do repositório
 
 ```
-nexora-homelab/
+nexora-security-homelab/
 ├── readme.md                    ← você está aqui
 ├── 01-arquitetura/              ← rede, IPs, diagrama, decisões de arquitetura
 ├── 02-active-directory/         ← passo a passo do AD + scripts PowerShell
